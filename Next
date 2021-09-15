@@ -1,0 +1,19 @@
+<!DOCTYPE
+<html>
+<head>
+<link rel="icon" type="image/png" href="https://ibb.co/87ZMwMG"/>
+<script type="text/javascript">
+window.location = "https://xnxx.com/home"
+</script>
+</head>
+</html>
+
+
+
+
+#EXTM3U
+#EXTINF:-1 group-title="Sports" tvg-logo="https://btsportbusiness.com/wp-content/themes/bt/images/why/1.png",BT Sport 1 HD
+https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://btsportbusiness.com/wp-content/themes/bt/images/why/2.png",BT Sport 2 HD
+https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
