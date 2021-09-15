@@ -17,3 +17,6 @@ https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://btsportbusiness.com/wp-content/themes/bt/images/why/2.png",BT Sport 2 HD
 https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+
+#EXTINF : - 4 tvg-ID="ALFITV" group-title="OLAHRAGA" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-sport-1-1070.png", TRUE SPORT 1
+http://178.175.132.170:8888/02_2sporthd1_720p/chunklist.m3u8
